@@ -12,6 +12,7 @@
     "@mantine/spotlight": "^5.10.5",
     "@reduxjs/toolkit": "^1.9.3",
     "@svgr/webpack": "^6.5.1",
+    "boundary": "^2.0.0",
     "broadcast-channel": "^4.20.2",
     "csv": "^6.2.8",
     "expiry-set": "^1.0.0",
@@ -38,6 +39,7 @@
     "sentence-splitter": "^4.2.0",
     "slugify": "^1.6.5",
     "sort-by": "^0.0.2",
+    "structured-source": "^4.0.0",
     "uuid": "^9.0.0",
     "web-vitals": "^2.1.4"
   },
